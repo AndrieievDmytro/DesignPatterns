@@ -1,0 +1,16 @@
+{
+    "Doctor name": "John",
+    "Doctor surname": "Smith",
+    "Doctor specialization": "Surgeon",
+    "Appointment time": "2021-10-29T17:35:23.6550168+02:00",
+    "Hospital": {
+        "Hospital name": "Knife Master",
+        "Hospital adress": {
+            "Street name": "Str Street",
+            "Building number": "20",
+            "City": "Warsaw",
+            "Country": "Poland",
+            "Postal code": "02-298"
+        }
+    }
+}

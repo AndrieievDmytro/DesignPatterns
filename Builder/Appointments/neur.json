@@ -1,0 +1,16 @@
+{
+    "Doctor name": "John",
+    "Doctor surname": "Smith",
+    "Doctor specialization": "Neuropathologist",
+    "Appointment time": "2021-10-29T17:35:23.6550168+02:00",
+    "Hospital": {
+        "Hospital name": "Smile",
+        "Hospital adress": {
+            "Street name": "Smile Street",
+            "Building number": "20",
+            "City": "Warsaw",
+            "Country": "Poland",
+            "Postal code": "02-298"
+        }
+    }
+}
